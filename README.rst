@@ -3,7 +3,7 @@ Databricks Code Assignment: External GroupBy
 
 Run Test:
 ------------------------------------
-This project is developed by Eclipse.
+This project is developed with Eclipse.
 
 ``GroupByMap.java``: process the input. If all the input data can be processed in memory,
 it will return the result directly. Otherwise, it will save partial results to temp files.
