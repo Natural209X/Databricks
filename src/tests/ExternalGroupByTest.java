@@ -15,14 +15,14 @@ public class ExternalGroupByTest {
 		ExternalGroupByTest tester = new ExternalGroupByTest();
 		System.out.println("Testing in-memory data processing:");
 		tester.testInMomeryProcess();
-		
+
 		System.out.println("\nTesting external data processing:");
 		tester.testExternalProcess();
 	}
-	
+
 	private void testExternalProcess() {
 		try {
-		    Path filePath = Paths.get("src/tests", "input.txt");
+			Path filePath = Paths.get("src/tests", "input.txt");
 			BufferedReader reader = Files.newBufferedReader(filePath, StandardCharsets.US_ASCII);
 			LinkedList<Map.Entry<String, String>> data = new LinkedList<Map.Entry<String, String>>();
 			String line = null;
@@ -43,10 +43,10 @@ public class ExternalGroupByTest {
 			}
 			System.out.format("Total records: \t%d\n", totalRecords);
 		} catch (IOException ex) {
-	        System.err.format("Failed to read data file: %s\n", ex);
-	    }
+			System.err.format("Failed to read data file: %s\n", ex);
+		}
 	}
-	
+
 	private void testInMomeryProcess() {
 		ExternalGroupBy inMemoryProcessor = new ExternalGroupBy(50, 10);
 		LinkedList<Map.Entry<String, String>> data = new LinkedList<Map.Entry<String, String>>();
