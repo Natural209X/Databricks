@@ -27,6 +27,22 @@ Overall test:
 	javac ExternalGroupByTest.java
 	java ExternalGroupByTest
 	
+Overall test output: 
+
+.. code-block:: bash
+
+	Testing in-memory data processing:
+	Alice	[value 6, value 7, value 8]
+	Bob	[value 9, value 10, value 11, value 12]
+	Charlie	[value 1, value 2, value 3, value 4, value 5]
+	David	[value 13, value 14, value 15, value 16, value 17, value 18]
+
+	Testing external data processing:
+	Total input records: 	24360
+	Final output file: /var/folders/3y/0fbxjxf914q4dt23_zttp07cgr1sgp/T/6146310612878250425.txt
+	Total records: 	145
+	Total data points in output: 	24360
+	
 FileIterator test:
 
 .. code-block:: bash
