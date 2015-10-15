@@ -14,6 +14,7 @@ temp files, and output the final result to a temp file. Then, a FileIterator is 
 ``FileIterator.java``: Iterate records in a file, parse them, and return them in the required format.
 
 ``ExternalGroupBy.java``: The main class to process input data. Two parameters are required:
+
 * ``chunkSize``: specify the number of records that can be processed in memeory
 * ``reduceSum``: specify the number of GroupByReduce threads that can be run in parallel.
 
