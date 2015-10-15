@@ -23,7 +23,7 @@ public final class FileIterator implements Iterator<Map.Entry<String, List<Strin
   @Override
   public boolean hasNext(){
     if (itemBuffer == null) {
-      itemBuffer = parseNextLine(reader);
+      itemBuffer = parseNextLine();
     }
 
     return itemBuffer != null;
@@ -36,7 +36,7 @@ public final class FileIterator implements Iterator<Map.Entry<String, List<Strin
       nextItem = itemBuffer;
       itemBuffer = null;
     } else {
-      nextItem = parseNextLine(reader);
+      nextItem = parseNextLine();
     }
     return nextItem;
   }
@@ -54,7 +54,7 @@ public final class FileIterator implements Iterator<Map.Entry<String, List<Strin
     }
   }
 
-  public static Map.Entry<String, List<String>> parseNextLine(BufferedReader reader) {
+  private Map.Entry<String, List<String>> parseNextLine() {
     try {
       String line = reader.readLine();
       if (line == null || line.isEmpty()) {
