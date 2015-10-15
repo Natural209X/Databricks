@@ -34,14 +34,15 @@ public class ExternalGroupByTest {
 			ExternalGroupBy externalProcessor = new ExternalGroupBy(5000, 10);
 			Iterator<Map.Entry<String, List<String>>> it = externalProcessor.groupBy(data.iterator());
 			int totalRecords = 0;
+			int totalDataPoints = 0;
 			while (it.hasNext()) {
 				totalRecords++;
 				Map.Entry<String, List<String>> item = it.next();
-				String key = item.getKey();
 				List<String> values = item.getValue();
-				System.out.println(key + '\t' + Arrays.toString(values.toArray()));
+				totalDataPoints += values.size();
 			}
 			System.out.format("Total records: \t%d\n", totalRecords);
+			System.out.format("Total data points in output: \t%d\n", totalDataPoints);
 		} catch (IOException ex) {
 			System.err.format("Failed to read data file: %s\n", ex);
 		}

@@ -15,7 +15,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -30,7 +30,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -76,7 +76,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Noble
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -160,7 +160,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -175,7 +175,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -221,7 +221,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -305,7 +305,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -320,7 +320,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -366,7 +366,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -450,7 +450,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -465,7 +465,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -511,7 +511,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -595,7 +595,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -610,7 +610,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -656,7 +656,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -740,7 +740,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -755,7 +755,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -801,7 +801,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -885,7 +885,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -900,7 +900,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -946,7 +946,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1030,7 +1030,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1045,7 +1045,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1091,7 +1091,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1175,7 +1175,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1190,7 +1190,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1236,7 +1236,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1320,7 +1320,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1335,7 +1335,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1381,7 +1381,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1465,7 +1465,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1480,7 +1480,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1526,7 +1526,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1610,7 +1610,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1625,7 +1625,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1671,7 +1671,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1755,7 +1755,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1770,7 +1770,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1816,7 +1816,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -1900,7 +1900,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -1915,7 +1915,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -1961,7 +1961,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2045,7 +2045,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2060,7 +2060,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2106,7 +2106,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2190,7 +2190,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2205,7 +2205,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2251,7 +2251,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2335,7 +2335,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2350,7 +2350,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2396,7 +2396,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2480,7 +2480,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2495,7 +2495,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2541,7 +2541,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2625,7 +2625,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2640,7 +2640,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2686,7 +2686,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2770,7 +2770,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2785,7 +2785,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2831,7 +2831,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -2915,7 +2915,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -2930,7 +2930,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -2976,7 +2976,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3060,7 +3060,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3075,7 +3075,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3121,7 +3121,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3205,7 +3205,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3220,7 +3220,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3266,7 +3266,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3350,7 +3350,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3365,7 +3365,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3411,7 +3411,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3495,7 +3495,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3510,7 +3510,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3556,7 +3556,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3640,7 +3640,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3655,7 +3655,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3701,7 +3701,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3785,7 +3785,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3800,7 +3800,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3846,7 +3846,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -3930,7 +3930,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -3945,7 +3945,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -3991,7 +3991,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4075,7 +4075,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4090,7 +4090,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4136,7 +4136,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4220,7 +4220,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4235,7 +4235,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4281,7 +4281,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4365,7 +4365,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4380,7 +4380,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4426,7 +4426,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4510,7 +4510,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4525,7 +4525,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4571,7 +4571,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4655,7 +4655,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4670,7 +4670,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4716,7 +4716,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4800,7 +4800,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4815,7 +4815,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -4861,7 +4861,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -4945,7 +4945,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -4960,7 +4960,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5006,7 +5006,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5090,7 +5090,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5105,7 +5105,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5151,7 +5151,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5235,7 +5235,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5250,7 +5250,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5296,7 +5296,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5380,7 +5380,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5395,7 +5395,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5441,7 +5441,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5525,7 +5525,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5540,7 +5540,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5586,7 +5586,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5670,7 +5670,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5685,7 +5685,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5731,7 +5731,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5815,7 +5815,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5830,7 +5830,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -5876,7 +5876,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -5960,7 +5960,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -5975,7 +5975,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6021,7 +6021,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6105,7 +6105,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6120,7 +6120,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6166,7 +6166,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6250,7 +6250,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6265,7 +6265,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6311,7 +6311,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6395,7 +6395,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6410,7 +6410,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6456,7 +6456,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6540,7 +6540,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6555,7 +6555,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6601,7 +6601,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6685,7 +6685,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6700,7 +6700,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6746,7 +6746,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6830,7 +6830,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6845,7 +6845,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -6891,7 +6891,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -6975,7 +6975,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -6990,7 +6990,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7036,7 +7036,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7120,7 +7120,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7135,7 +7135,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7181,7 +7181,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7265,7 +7265,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7280,7 +7280,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7326,7 +7326,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7410,7 +7410,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7425,7 +7425,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7471,7 +7471,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7555,7 +7555,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7570,7 +7570,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7616,7 +7616,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7700,7 +7700,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7715,7 +7715,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7761,7 +7761,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7845,7 +7845,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -7860,7 +7860,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -7906,7 +7906,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -7990,7 +7990,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8005,7 +8005,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8051,7 +8051,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8135,7 +8135,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8150,7 +8150,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8196,7 +8196,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8280,7 +8280,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8295,7 +8295,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8341,7 +8341,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8425,7 +8425,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8440,7 +8440,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8486,7 +8486,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8570,7 +8570,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8585,7 +8585,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8631,7 +8631,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8715,7 +8715,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8730,7 +8730,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8776,7 +8776,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -8860,7 +8860,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -8875,7 +8875,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -8921,7 +8921,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9005,7 +9005,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9020,7 +9020,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9066,7 +9066,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9150,7 +9150,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9165,7 +9165,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9211,7 +9211,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9295,7 +9295,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9310,7 +9310,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9356,7 +9356,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9440,7 +9440,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9455,7 +9455,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9501,7 +9501,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9585,7 +9585,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9600,7 +9600,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9646,7 +9646,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9730,7 +9730,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9745,7 +9745,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9791,7 +9791,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -9875,7 +9875,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -9890,7 +9890,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -9936,7 +9936,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10020,7 +10020,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10035,7 +10035,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10081,7 +10081,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10165,7 +10165,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10180,7 +10180,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10226,7 +10226,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10310,7 +10310,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10325,7 +10325,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10371,7 +10371,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10455,7 +10455,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10470,7 +10470,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10516,7 +10516,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10600,7 +10600,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10615,7 +10615,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10661,7 +10661,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10745,7 +10745,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10760,7 +10760,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10806,7 +10806,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -10890,7 +10890,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -10905,7 +10905,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -10951,7 +10951,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11035,7 +11035,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11050,7 +11050,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11096,7 +11096,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11180,7 +11180,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11195,7 +11195,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11241,7 +11241,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11325,7 +11325,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11340,7 +11340,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11386,7 +11386,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11470,7 +11470,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11485,7 +11485,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11531,7 +11531,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11615,7 +11615,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11630,7 +11630,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11676,7 +11676,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11760,7 +11760,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11775,7 +11775,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11821,7 +11821,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -11905,7 +11905,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -11920,7 +11920,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -11966,7 +11966,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12050,7 +12050,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12065,7 +12065,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12111,7 +12111,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12195,7 +12195,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12210,7 +12210,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12256,7 +12256,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12340,7 +12340,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12355,7 +12355,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12401,7 +12401,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12485,7 +12485,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12500,7 +12500,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12546,7 +12546,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12630,7 +12630,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12645,7 +12645,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12691,7 +12691,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12775,7 +12775,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12790,7 +12790,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12836,7 +12836,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -12920,7 +12920,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -12935,7 +12935,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -12981,7 +12981,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13065,7 +13065,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13080,7 +13080,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13126,7 +13126,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13210,7 +13210,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13225,7 +13225,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13271,7 +13271,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13355,7 +13355,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13370,7 +13370,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13416,7 +13416,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13500,7 +13500,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13515,7 +13515,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13561,7 +13561,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13645,7 +13645,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13660,7 +13660,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13706,7 +13706,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13790,7 +13790,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13805,7 +13805,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13851,7 +13851,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -13935,7 +13935,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -13950,7 +13950,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -13996,7 +13996,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14080,7 +14080,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14095,7 +14095,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14141,7 +14141,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14225,7 +14225,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14240,7 +14240,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14286,7 +14286,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14370,7 +14370,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14385,7 +14385,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14431,7 +14431,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14515,7 +14515,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14530,7 +14530,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14576,7 +14576,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14660,7 +14660,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14675,7 +14675,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14721,7 +14721,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14805,7 +14805,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14820,7 +14820,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -14866,7 +14866,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -14950,7 +14950,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -14965,7 +14965,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15011,7 +15011,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15095,7 +15095,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15110,7 +15110,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15156,7 +15156,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15240,7 +15240,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15255,7 +15255,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15301,7 +15301,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15385,7 +15385,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15400,7 +15400,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15446,7 +15446,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15530,7 +15530,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15545,7 +15545,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15591,7 +15591,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15675,7 +15675,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15690,7 +15690,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15736,7 +15736,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15820,7 +15820,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15835,7 +15835,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -15881,7 +15881,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -15965,7 +15965,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -15980,7 +15980,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16026,7 +16026,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16110,7 +16110,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16125,7 +16125,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16171,7 +16171,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16255,7 +16255,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16270,7 +16270,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16316,7 +16316,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16400,7 +16400,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16415,7 +16415,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16461,7 +16461,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16545,7 +16545,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16560,7 +16560,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16606,7 +16606,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16690,7 +16690,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16705,7 +16705,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16751,7 +16751,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16835,7 +16835,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16850,7 +16850,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -16896,7 +16896,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -16980,7 +16980,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -16995,7 +16995,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17041,7 +17041,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17125,7 +17125,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17140,7 +17140,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17186,7 +17186,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17270,7 +17270,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17285,7 +17285,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17331,7 +17331,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17415,7 +17415,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17430,7 +17430,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17476,7 +17476,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17560,7 +17560,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17575,7 +17575,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17621,7 +17621,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17705,7 +17705,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17720,7 +17720,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17766,7 +17766,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17850,7 +17850,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -17865,7 +17865,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -17911,7 +17911,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -17995,7 +17995,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18010,7 +18010,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18056,7 +18056,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18140,7 +18140,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18155,7 +18155,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18201,7 +18201,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18285,7 +18285,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18300,7 +18300,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18346,7 +18346,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18430,7 +18430,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18445,7 +18445,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18491,7 +18491,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18575,7 +18575,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18590,7 +18590,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18636,7 +18636,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18720,7 +18720,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18735,7 +18735,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18781,7 +18781,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -18865,7 +18865,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -18880,7 +18880,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -18926,7 +18926,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19010,7 +19010,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19025,7 +19025,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19071,7 +19071,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19155,7 +19155,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19170,7 +19170,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19216,7 +19216,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19300,7 +19300,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19315,7 +19315,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19361,7 +19361,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19445,7 +19445,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19460,7 +19460,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19506,7 +19506,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19590,7 +19590,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19605,7 +19605,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19651,7 +19651,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19735,7 +19735,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19750,7 +19750,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19796,7 +19796,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -19880,7 +19880,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -19895,7 +19895,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -19941,7 +19941,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20025,7 +20025,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20040,7 +20040,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20086,7 +20086,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20170,7 +20170,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20185,7 +20185,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20231,7 +20231,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20315,7 +20315,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20330,7 +20330,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20376,7 +20376,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20460,7 +20460,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20475,7 +20475,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20521,7 +20521,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20605,7 +20605,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20620,7 +20620,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20666,7 +20666,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20750,7 +20750,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20765,7 +20765,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20811,7 +20811,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -20895,7 +20895,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -20910,7 +20910,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -20956,7 +20956,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21040,7 +21040,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21055,7 +21055,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21101,7 +21101,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21185,7 +21185,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21200,7 +21200,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21246,7 +21246,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21330,7 +21330,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21345,7 +21345,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21391,7 +21391,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21475,7 +21475,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21490,7 +21490,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21536,7 +21536,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21620,7 +21620,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21635,7 +21635,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21681,7 +21681,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21765,7 +21765,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21780,7 +21780,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21826,7 +21826,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -21910,7 +21910,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -21925,7 +21925,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -21971,7 +21971,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22055,7 +22055,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22070,7 +22070,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22116,7 +22116,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22200,7 +22200,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22215,7 +22215,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22261,7 +22261,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22345,7 +22345,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22360,7 +22360,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22406,7 +22406,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22490,7 +22490,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22505,7 +22505,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22551,7 +22551,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22635,7 +22635,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22650,7 +22650,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22696,7 +22696,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22780,7 +22780,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22795,7 +22795,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22841,7 +22841,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -22925,7 +22925,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -22940,7 +22940,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -22986,7 +22986,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23070,7 +23070,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23085,7 +23085,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23131,7 +23131,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23215,7 +23215,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23230,7 +23230,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23276,7 +23276,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23360,7 +23360,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23375,7 +23375,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23421,7 +23421,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23505,7 +23505,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23520,7 +23520,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23566,7 +23566,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23650,7 +23650,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23665,7 +23665,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23711,7 +23711,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23795,7 +23795,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23810,7 +23810,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -23856,7 +23856,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -23940,7 +23940,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -23955,7 +23955,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -24001,7 +24001,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -24085,7 +24085,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -24100,7 +24100,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -24146,7 +24146,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
@@ -24230,7 +24230,7 @@ Alan	Handsome One
 Allan	Handsome One
 Alastair	Defender of Men
 Albern	Of Noble Valor
-Albert	Noble, Bright
+Albert	Bright
 Albion	White or Fair
 Alden	Wise Guardian
 Aldis	From the Old House
@@ -24245,7 +24245,7 @@ Alvin	Noble Friend
 Ambrose	Immortal
 Amery	Industrious
 Amos	A Burden
-Andrew	Manly, Valiant
+Andrew	Valiant
 Angus	Strong and Unique
 Ansel	Nobel
 Anthony	Priceless
@@ -24291,7 +24291,7 @@ Brendon	Traveller
 Brent	From the Steep Hill
 Bret	Native of Brittany
 Brett	Native of Brittany
-Brian	High, Noble, Strong
+Brian	Nobel
 Brice	Great Ambition
 Brigham	Dweller by the Bridge
 Brock	The Badger
