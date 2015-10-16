@@ -39,7 +39,7 @@ Overall test output:
 
 	Testing external data processing:
 	Total input records: 	24360
-	Final output file: /var/folders/3y/0fbxjxf914q4dt23_zttp07cgr1sgp/T/6146310612878250425.txt
+	Output file:	/var/folders/3y/0fbxjxf914q4dt23_zttp07cgr1sgp/T/2789571709755756762.txt
 	Total records: 	145
 	Total data points in output: 	24360
 	
