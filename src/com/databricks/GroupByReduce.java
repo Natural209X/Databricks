@@ -9,12 +9,12 @@ public class GroupByReduce extends Thread {
 	private String fileName1 = null;
 	private String fileName2 = null;
 	private String outputFile = null;
-	
+
 	public GroupByReduce(String fileName1, String fileName2) {
 		this.fileName1 = fileName1;
 		this.fileName2 = fileName2;
 	}
-	
+
 	@Override
 	public void run() {
 		try {
@@ -22,7 +22,7 @@ public class GroupByReduce extends Thread {
 			FileIterator it2 = new FileIterator(fileName2);
 			Path tempFile = Files.createTempFile(null, ".txt");
 			BufferedWriter writer = Files.newBufferedWriter(tempFile, StandardCharsets.US_ASCII);
-			
+
 			Map.Entry<String, List<String>> item1 = null;
 			Map.Entry<String, List<String>> item2 = null;
 			while (it1.hasNext() || it2.hasNext()) {
@@ -35,10 +35,10 @@ public class GroupByReduce extends Thread {
 				String line = null;
 				if (item1 == null || (item2 != null && item1.getKey().compareTo(item2.getKey()) > 0)) {
 					line = item2.getKey() + '\t' + Arrays.toString(item2.getValue().toArray());
-			    	item2 = null;
+					item2 = null;
 				} else if (item2 == null || (item1 != null && item2.getKey().compareTo(item1.getKey()) > 0)) {
-			    	line = item1.getKey() + '\t' + Arrays.toString(item1.getValue().toArray());
-			    	item1 = null;
+					line = item1.getKey() + '\t' + Arrays.toString(item1.getValue().toArray());
+					item1 = null;
 				} else {
 					// item1 and item2 have the same key
 					List<String> temp = new ArrayList<String>();
@@ -48,24 +48,24 @@ public class GroupByReduce extends Thread {
 					item1 = null;
 					item2 = null;
 				}
-		    	writer.write(line);
-		    	writer.newLine();
+				writer.write(line);
+				writer.newLine();
 			}
 			outputFile = tempFile.toAbsolutePath().toString();
 			writer.close();
 		} catch (IOException x) {
-		    System.err.format("Failed to write data to temp file");
+			System.err.format("Failed to write data to temp file");
 		}
 	}
-	
+
 	public String getInputFile1() {
 		return fileName1;
 	}
-	
+
 	public String getInputFile2() {
 		return fileName2;
 	}
-	
+
 	public String getOutputFilePath() {
 		return outputFile;
 	}
