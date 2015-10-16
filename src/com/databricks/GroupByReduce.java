@@ -53,8 +53,6 @@ public class GroupByReduce extends Thread {
 			}
 			outputFile = tempFile.toAbsolutePath().toString();
 			writer.close();
-			it1.close();
-			it2.close();
 		} catch (IOException x) {
 		    System.err.format("Failed to write data to temp file");
 		}

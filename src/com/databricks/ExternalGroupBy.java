@@ -43,9 +43,7 @@ public class ExternalGroupBy {
 				}
 			}
 		}
-		String finalResult = files.pop();
-		System.out.format("Final output file: %s\n", finalResult);
-		return new FileIterator(finalResult);
+		return new FileIterator(files.pop());
 	}
 }
 

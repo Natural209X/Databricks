@@ -32,7 +32,7 @@ public class ExternalGroupByTest {
 			}
 			System.out.format("Total input records: \t%d\n", data.size());
 			ExternalGroupBy externalProcessor = new ExternalGroupBy(5000, 10);
-			Iterator<Map.Entry<String, List<String>>> it = externalProcessor.groupBy(data.iterator());
+			FileIterator it = (FileIterator) externalProcessor.groupBy(data.iterator());
 			int totalRecords = 0;
 			int totalDataPoints = 0;
 			while (it.hasNext()) {
@@ -41,8 +41,9 @@ public class ExternalGroupByTest {
 				List<String> values = item.getValue();
 				totalDataPoints += values.size();
 			}
-			System.out.format("Total records: \t%d\n", totalRecords);
-			System.out.format("Total data points in output: \t%d\n", totalDataPoints);
+			System.out.format("Output file:\t%s\n", it.getSourceFilePath());
+			System.out.format("Total records:\t%d\n", totalRecords);
+			System.out.format("Total data points in output:\t%d\n", totalDataPoints);
 		} catch (IOException ex) {
 			System.err.format("Failed to read data file: %s\n", ex);
 		}
